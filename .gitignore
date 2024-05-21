@@ -5,3 +5,6 @@
 /config/com.techhappy.webminimap.cfg
 /config/IhanaMies.LootValue.cfg
 /.vscode
+/cache
+/LogOutput.log
+LogOutput.log
