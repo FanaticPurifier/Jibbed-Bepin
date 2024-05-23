@@ -10,3 +10,7 @@
 LogOutput.log
 *.log
 config/com.Amanda.Graphics.cfg
+
+/config
+/core
+/patchers
