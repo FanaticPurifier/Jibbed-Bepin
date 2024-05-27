@@ -14,3 +14,5 @@ config/com.Amanda.Graphics.cfg
 /config
 /core
 /patchers
+/config/me.sol.sain.cfg
+/cache/chainloader_typeloader.dat
