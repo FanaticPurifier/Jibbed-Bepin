@@ -1,0 +1,35 @@
+CC BY 3.0 License
+https://creativecommons.org/licenses/by/3.0/deed.en
+
+---
+
+Exit door icon by Delapouite under CC BY 3.0
+https://game-icons.net/1x1/delapouite/exit-door.html
+
+Locked door icon by Delapouite under CC BY 3.0
+https://game-icons.net/1x1/delapouite/locked-door.html
+
+Lever icon by Lorc under CC BY 3.0
+https://game-icons.net/1x1/lorc/lever.html
+
+Car door icon by Delapouite under CC BY 3.0
+https://game-icons.net/1x1/delapouite/car-door.html
+
+Key lock icon by Delapouite under CC BY 3.0
+https://game-icons.net/1x1/delapouite/key-lock.html
+
+Door icon by Delapouite under CC BY 3.0
+https://game-icons.net/1x1/delapouite/door.html
+
+Position marker icon by Delapouite under CC BY 3.0
+https://game-icons.net/1x1/delapouite/position-marker.html
+
+Parachute icon by Lorc under CC BY 3.0
+https://game-icons.net/1x1/lorc/parachute.html
+
+Above images were changed with the below changes
+  - Scaled down to 60x60 images
+  - Black outline added
+  - Some icons combined
+
+---
